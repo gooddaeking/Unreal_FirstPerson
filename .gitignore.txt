@@ -5,7 +5,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-FirstPerson/Content/StarterContent/
+/FirstPerson/Content/StarterContent/
 
 # Compiled Object files
 *.slo
