@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0BCFEC1A-DC47-43CC-BC6B-0E2A42270A43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DBC5EB16-A7AF-4CCA-8B80-6C436C297B9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstPerson">
+      <UniqueIdentifier>{2032E985-2D75-4FFE-9646-C919ECACC07D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPerson\FirstPerson.Build.cs">
+      <Filter>Source\FirstPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPerson.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPerson.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPersonCharacter.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPersonCharacter.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPersonGameMode.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPersonGameMode.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPersonHUD.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPersonHUD.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPersonProjectile.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPersonProjectile.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
